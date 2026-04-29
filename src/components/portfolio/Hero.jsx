@@ -1,9 +1,9 @@
 import React from "react";
 import { motion, useTransform } from "framer-motion";
-import { ArrowRight, Mail, Sparkles } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import { GithubIcon as Github, LinkedinIcon as Linkedin } from "../ui/icons";
 import { Button } from "../ui/button";
-import { profile, stats } from "../../mock/mock";
+import { profile } from "../../mock/mock";
 
 const scrollTo = (id) => {
   const el = document.getElementById(id);

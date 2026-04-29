@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import { Mail, MapPin, Send, CheckCircle2 } from "lucide-react";
+import { Mail, MapPin, Send } from "lucide-react";
 import { GithubIcon as Github, LinkedinIcon as Linkedin } from "../ui/icons";
 import { Button } from "../ui/button";
 import { Input } from "../ui/input";
