@@ -6,9 +6,9 @@ export const profile = {
   title: "Software Developer | Data Engineer | MSc Computer Science Student",
   initials: "MM",
   location: "United Kingdom",
-  email: "mohammad.mirza@example.com",
+  email: "mohammedmirza04@gmail.com",
   github: "https://github.com/mohammadmirza",
-  linkedin: "https://linkedin.com/in/mohammadmirza",
+  linkedin: "https://www.linkedin.com/in/mirza-mohammed5/",
   cvUrl: "#",
   heroIntro:
     "I build reliable software, data pipelines, and intelligent analytics solutions that transform raw data into practical business insights.",
